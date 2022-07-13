@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "firstName": "Iva",
+    "age": "24",
+    "gender": "female"
+  },
+  {
+    "id": "2",
+    "firstName": "Sebastian",
+    "age": "24",
+    "gender": "male"
+  },
+  {
+    "id": "3",
+    "firstName": "Razvan",
+    "age": "24",
+    "gender": "male"
+  },
+  {
+    "id": "4",
+    "firstName": "Ivan",
+    "age": "26",
+    "gender": "male"
+  },
+  {
+    "id": "5",
+    "firstName": "Marcus",
+    "age": "24",
+    "gender": "male"
+  },
+  {
+    "id": "6",
+    "firstName": "Diana",
+    "age": "38",
+    "gender": "female"
+  },
+  {
+    "id": "7",
+    "firstName": "Nicklas",
+    "age": "23",
+    "gender": "male"
+  },
+  {
+    "id": "8",
+    "firstName": "Mami",
+    "age": "34",
+    "gender": "male"
+  },
+  {
+    "id": "9",
+    "firstName": "Mario",
+    "age": "22",
+    "gender": "male"
+  },
+  {
+    "id": "10",
+    "firstName": "Anders",
+    "age": "32",
+    "gender": "male"
+  },
+  {
+    "id": "11",
+    "firstName": "Hamid",
+    "age": "25",
+    "gender": "male"
+  },
+  {
+    "id": "12",
+    "firstName": "Haya",
+    "age": "26",
+    "gender": "female"
+  }
+]
